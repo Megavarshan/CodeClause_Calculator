@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import tkinter as tk
 from tkinter import messagebox
 
@@ -61,10 +55,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = CalculatorApp(root)
     root.mainloop()
-
-
-# In[ ]:
-
-
-
-
